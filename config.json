@@ -1,0 +1,21 @@
+{
+    "token": "_BOT TOKEN HERE!_",
+    "proxy": false,
+    "nuke": {
+        "channels_name": [
+            "heated",
+            "heated",
+            "heated",
+            "heated"
+        ],
+        "roles_name": [
+            "heated",
+            "heated",
+            "heated"
+        ],
+        "messages_content": [
+            "# @everyone @here _WRITE THE MESSAGE HERE WHAT YOU WANT THE BOT TO SPAM!_",
+            "# @everyone @here _WRITE THE MESSAGE HERE WHAT YOU WANT THE BOT TO SPAM!_"
+        ]
+    }
+}
