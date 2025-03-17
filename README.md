@@ -1,5 +1,5 @@
 # Heated-Nuker
-Hellium, fastest nuker on discord written in py.
+Heated, fastest nuker on discord written in py.
 ## Installation
 For compiled version:
 
